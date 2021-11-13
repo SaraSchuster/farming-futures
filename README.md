@@ -1,0 +1,2 @@
+# farming-futures
+Farming Futures analyzed recent changes in demographics amongst farmers as we have seen an uptick in younger farmers entering the profession as well as a resurgence of small and even micro-sized farms. This capstone project sought to pinpoint which areas of the country were seeing this influx of new farms and farmers and to contrast this rising trend with the previous status quo of large, monoculture farming by a rapidly aging population.
